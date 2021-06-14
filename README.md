@@ -1,2 +1,2 @@
-# Hi folks! Welcome to my profile page! 👀
+# Hi folks! Welcome to my github page! 👀
 Be curious! Take a look around.
