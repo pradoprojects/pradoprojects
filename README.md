@@ -3,5 +3,5 @@
 
 ```diff
 +⁜+ Be curious! Take a look around. +⁜+
-+⁜+ ...and don't forget to check all the repositories. +⁜+
++⁜+ . +⁜+
 ```
