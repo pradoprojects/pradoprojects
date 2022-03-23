@@ -1,9 +1,8 @@
-# Hi folks, welcome to my Github page! 👀
+<h1 align="center">Hi folks, welcome to my Github page! 👀 </h1>
 
-```diff
+<div align="center">
 +⁜+ Be curious! Take a look around.  +⁜+
-```
-
+<div>
 
 <div align="center">
   <a href="https://github.com/pradoprojects">
