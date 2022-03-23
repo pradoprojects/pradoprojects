@@ -1,10 +1,10 @@
 # Hi folks, welcome to my Github page! 👀
 
-<div align="center">
+
 ```diff
 +⁜+ Be curious! Take a look around.  +⁜+
 ```
-<div>
+
 
 <div align="center">
   <a href="https://github.com/pradoprojects">
