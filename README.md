@@ -5,12 +5,14 @@
 
 <br/>
 
+<a href="https://github.com/pradoprojects" role="link" aria-disabled="true">
 <div align="center">
-   <a href="..." role="link" aria-disabled="true">
+
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pradoprojects&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradoprojects&layout=compact&langs_count=7&theme=vue"/>
-   </a> 
-     </div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradoprojects&layout=compact&langs_count=7&theme=vue"/> 
+</div>
+</a>
+
 <br/>
 <div align=center style="display: inline_block"><br>
    <a href="https://devdocs.io">
