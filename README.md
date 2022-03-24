@@ -3,13 +3,14 @@
 <p align="center">Be curious! Take a look around. 👀 
 </p>
 
+<br/>
 
 <div align="center">
   <a href="https://github.com/pradoprojects">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pradoprojects&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradoprojects&layout=compact&langs_count=7&theme=vue"/>
 </div>
-
+<br/>
 <div align=center style="display: inline_block"><br>
   
    <img align="center" alt="C logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
