@@ -1,5 +1,3 @@
-<img src="topbanner.png" width="100%" align="right" />
-
 # My Portfolio at GitHub
 
 
