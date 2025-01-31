@@ -19,7 +19,8 @@
 
 #### *_But why GitHub?_*
 
-> Because it's Collaborative, Cross-Functional, Adaptative, Accessible, User-Centered, and Project-Oriented! All that a Research and Design practitioner must be!❤✌
+> Because it’s collaborative, cross-functional, adaptive, accessible, user-centered, and project-oriented! All the things I strive to be as a UX researcher and designer.❤✌
+
 <br>
 
 <br/>
@@ -29,7 +30,7 @@
 
 <img src="pencil_logo.png" width="15%" align="right" />
 <p align="justify">
-      Hi, I am <b>Marllos Prado</b>. I am a UX researcher and designer with a craftsmanship approach. I prioritize simplicity and robustness in my work over unnecessary complexity and embellishments. In this space, I showcase my cross-functional skills and the projects I've been involved in throughout my career. Whether you're a recruiter, a student, or just a curious visitor, feel free to browse and reach out if you have any questions! 🎯 
+Hi, I am <b>Marllos Prado</b>. I am a UX researcher and designer with a craftsmanship approach. I prioritize simplicity and robustness in my work over unnecessary complexity and embellishments. I strive to create designs that are intuitive, easy to use, and built to last. In this space, I showcase my skills and the projects I've been involved in my career. Be you a recruiter, a student, or just a curious visitor, feel free to browse and reach out if you have any questions! 🎯 
 </p>
 
 </div>
