@@ -1,13 +1,18 @@
+<img src="topbanner.png" width="100%" align="right" />
+
 # My Portfolio at GitHub
 
 
 <br/>
 
 
-<img src="pencil_logo.png" width="25%" align="right" />
-<p align="left">
-Why GitHub? Because it's Responsive, Adaptive, Collaborative, User-Centered, and Project-Oriented! All a Research and Design professional must be!
-</p> 
+
+<div align="left">
+      <p align="left">
+      Why GitHub? Because it's Responsive, Adaptive, Collaborative, User-Centered, and Project-Oriented! All a Research and Design professional must be!
+      </p>
+      <img src="pencil_logo.png" width="25%" align="right" />
+</div> 
 
 <br/>
 <br/>
@@ -44,6 +49,8 @@ Hi! I am Marllos Prado and here I showcase my cross-functional skills and projec
 </div>
 
 <div align=center style="display: inline_block"><br>
+   My favorite tools
+   <br><br>
    <a href="https://https://help.figma.com/hc/en-us">
    <img align="center" alt="Figma logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
    </a>
