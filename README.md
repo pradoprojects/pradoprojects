@@ -27,17 +27,15 @@
 
 <div align="center">
 <br><br>
-<pre>
+<div>
     💼 PhD @ UFG
     💻 HCI and Algorithms Teacher
     📖 UX Researcher/Designer • Qualitative and Quantitive Studies
     🎮 Music • Cardboard Games • Lego
     🚴‍♀️ Bike & Jogging • Gardening 🌱
-</pre>
+</div>
 <br><br>
-
-<br><br><br>
-    
+   
 [![](https://img.shields.io/badge/linkedin-0a66c2)](www.linkedin.com/in/marllos-p-a383641b2)
 </div>
   
