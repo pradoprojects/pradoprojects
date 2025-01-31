@@ -90,7 +90,7 @@ Hi! I am <b>Marllos Prado</b> and here I showcase my cross-functional skills and
 [comment]: <> (LinkedIn Badge.)
 <div align="center">
     
-  [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" style="text-align: center" alt="My LinkedIn" height="30">](www.linkedin.com/in/marllos-p-a383641b2)
+  [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" style="text-align: center" alt="My LinkedIn" height="20">](www.linkedin.com/in/marllos-p-a383641b2)
 
 </div>
 
