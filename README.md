@@ -2,7 +2,7 @@
 
 <div align="left">
 My Portfolio at GitHub
-</div>div>
+</div>
 
 <br/>
 
