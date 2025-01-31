@@ -1,5 +1,7 @@
 <img src="topbanner.png" width="100%" align="right" />
 
+<p>   </p>
+
 <br/>
 <br/>
 <br/>
@@ -8,7 +10,7 @@
 
 <div align="center">
       
-### Welcome to PradoProjects' Portfolio
+### Welcome to my Portfolio
 
 </div>
 
@@ -27,7 +29,7 @@
 
 <img src="pencil_logo.png" width="15%" align="right" />
 <p align="justify">
-Hi! I am <b>Marllos Prado</b> and here I showcase my cross-functional skills and projects I've been involved in throughout my life. Whether you are a recruiter, student, or just a random visitor, feel free to browse and get in contact with any further questions! 👀 
+Hi, I am <b>Marllos Prado</b>.I am a UX researcher and designer with a craftsmanship approach. I prioritize simplicity and robustness over unnecessary complexity and embellishments in my work. In this space, I showcase my cross-functional skills and the projects I've been involved in throughout my career. Whether you're a recruiter, a student, or just a curious visitor, feel free to browse and reach out if you have any questions! 👀 
 </p>
 
 </div>
@@ -39,7 +41,8 @@ Hi! I am <b>Marllos Prado</b> and here I showcase my cross-functional skills and
 <br/>
 
 <div align=center style="display: inline_block">
-      <br>
+       <b>Who I am</b>
+      <br><br>
         💼 PhD in Computer Science
        | 
         💻 HCI and Algorithms Teacher
