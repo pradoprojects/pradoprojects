@@ -24,6 +24,22 @@
    <img align="center" alt="Angular logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   </a>
 </div>
+
+<div align="center">
+<br><br>
+<pre>
+    💼 PhD @ UFG
+    💻 HCI and Algorithms Teacher
+    📖 UX Researcher/Designer • Qualitative and Quantitive Studies
+    🎮 Music • Cardboard Games • Lego
+    🚴‍♀️ Bike & Jogging • Gardening 🌱
+</pre>
+<br><br>
+
+<br><br><br>
+    
+[![](https://img.shields.io/badge/linkedin-0a66c2)](www.linkedin.com/in/marllos-p-a383641b2)
+</div>
   
 ##
   
