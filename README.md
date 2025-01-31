@@ -25,14 +25,19 @@
   </a>
 </div>
 
-<div align="center">
+
 <br><br>
-<div>
-    💼 PhD @ UFG
-    💻 HCI and Algorithms Teacher
-    📖 UX Researcher/Designer • Qualitative and Quantitive Studies
-    🎮 Music • Cardboard Games • Lego
-    🚴‍♀️ Bike & Jogging • Gardening 🌱
+<div align=center>
+    <br>
+      💼 PhD in Computer Science
+    •
+      💻 HCI and Algorithms Teacher
+    •
+      📖 UX Researcher/Designer
+    •
+      🎮 Music • Cardboard Games  Lego
+    •
+      🚴‍♀️ Bike & Jogging • Gardening 🌱
 </div>
 <br><br>
    
