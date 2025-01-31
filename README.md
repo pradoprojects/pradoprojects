@@ -51,7 +51,7 @@
        <br> 
         🎮 Games & Music & Lego for fun
        | 
-        🚴‍♀️ Bike & Jogging • Gardening for health 🌱
+        🚴‍♀️ Bike & Jogging & Gardening for health 🌱
 </div>
 <br>
 <br>
