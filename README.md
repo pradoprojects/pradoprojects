@@ -1,29 +1,36 @@
 <img src="topbanner.png" width="100%" align="right" />
 
-<div align="left">
-My Portfolio at GitHub
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<div align="center">
+      
+### Welcome to PradoProjects' Portfolio
+
 </div>
 
 <br/>
 
 
+#### *_But why GitHub?_*
 
-<div align="left">
-      <p align="left">
-      Why GitHub? Because it's Responsive, Adaptive, Collaborative, User-Centered, and Project-Oriented! All a Research and Design professional must be!
-      </p>
-      <img src="pencil_logo.png" width="25%" align="right" />
-</div> 
+> Because it's Responsive, Adaptive, Collaborative, Accessible, User-Centered, and Project-Oriented! All that a Research and Design professional must be!❤✌
+<br>
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+
+<div align=center style="display: inline_block">
+
+<img src="pencil_logo.png" width="15%" align="right" />
 <p align="justify">
-Hi! I am Marllos Prado and here I showcase my cross-functional skills and projects I've been involved in throughout my life. Whether you are a recruiter, student, or just a random visitor, feel free to browse and get in contact with any further questions! 👀 
+Hi! I am <b>Marllos Prado</b> and here I showcase my cross-functional skills and projects I've been involved in throughout my life. Whether you are a recruiter, student, or just a random visitor, feel free to browse and get in contact with any further questions! 👀 
 </p>
 
+</div>
 
 
 <br/>
@@ -31,7 +38,7 @@ Hi! I am Marllos Prado and here I showcase my cross-functional skills and projec
 <br/>
 <br/>
 
-<div align=left style="display: inline_block">
+<div align=center style="display: inline_block">
       <br>
         💼 PhD in Computer Science
        | 
@@ -43,14 +50,15 @@ Hi! I am Marllos Prado and here I showcase my cross-functional skills and projec
        | 
         🚴‍♀️ Bike & Jogging • Gardening 🌱
 </div>
-<br><br>
-
-<br><br>
+<br>
+<br>
+<br>
+<br>
 
 </div>
 
 <div align=center style="display: inline_block"><br>
-   My favorite tools
+   <b>My favorite tools</b>
    <br><br>
    <a href="https://https://help.figma.com/hc/en-us">
    <img align="center" alt="Figma logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
@@ -85,3 +93,7 @@ Hi! I am Marllos Prado and here I showcase my cross-functional skills and projec
   [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" style="text-align: center" alt="My LinkedIn" height="30">](www.linkedin.com/in/marllos-p-a383641b2)
 
 </div>
+
+
+
+
