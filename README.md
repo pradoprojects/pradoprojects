@@ -27,18 +27,20 @@
 
 
 <br><br>
-<div align=center>
-    <br>
-      💼 PhD in Computer Science
-    •
-      💻 HCI and Algorithms Teacher
-    •
-      📖 UX Researcher/Designer
-    •
-      🎮 Music • Cardboard Games  Lego
-    •
-      🚴‍♀️ Bike & Jogging • Gardening 🌱
-</div>
+
+<div align=center style="display: inline_block"><br>
+  <div align=center>
+      <br>
+        💼 PhD in Computer Science
+      •
+        💻 HCI and Algorithms Teacher
+      •
+        📖 UX Researcher/Designer
+      •
+        🎮 Music • Cardboard Games  Lego
+      •
+        🚴‍♀️ Bike & Jogging • Gardening 🌱
+  </div>
 <br><br>
    
 [![](https://img.shields.io/badge/linkedin-0a66c2)](www.linkedin.com/in/marllos-p-a383641b2)
