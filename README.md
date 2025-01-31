@@ -13,6 +13,25 @@
 </div>
 </a>
 
+<div align=center style="display: inline_block"><br>
+  <div align=center>
+      <br>
+        💼 PhD in Computer Science
+      •
+        💻 HCI and Algorithms Teacher
+      •
+        📖 UX Researcher/Designer
+      •
+        🎮 Music & Cardboard Games & Lego
+      •
+        🚴‍♀️ Bike & Jogging • Gardening 🌱
+  </div>
+<br><br>
+   
+[![](https://img.shields.io/badge/linkedin-0a66c2)](www.linkedin.com/in/marllos-p-a383641b2)
+</div>
+
+
 <br/>
 <div align=center style="display: inline_block"><br>
    <a href="https://devdocs.io">
@@ -28,23 +47,6 @@
 
 <br><br>
 
-<div align=center style="display: inline_block"><br>
-  <div align=center>
-      <br>
-        💼 PhD in Computer Science
-      •
-        💻 HCI and Algorithms Teacher
-      •
-        📖 UX Researcher/Designer
-      •
-        🎮 Music • Cardboard Games  Lego
-      •
-        🚴‍♀️ Bike & Jogging • Gardening 🌱
-  </div>
-<br><br>
-   
-[![](https://img.shields.io/badge/linkedin-0a66c2)](www.linkedin.com/in/marllos-p-a383641b2)
-</div>
   
 ##
   
