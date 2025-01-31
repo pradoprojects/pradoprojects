@@ -29,7 +29,7 @@
 
 <img src="pencil_logo.png" width="15%" align="right" />
 <p align="justify">
-Hi, I am <b>Marllos Prado</b>.I am a UX researcher and designer with a craftsmanship approach. I prioritize simplicity and robustness over unnecessary complexity and embellishments in my work. In this space, I showcase my cross-functional skills and the projects I've been involved in throughout my career. Whether you're a recruiter, a student, or just a curious visitor, feel free to browse and reach out if you have any questions! 👀 
+      Hi, I am Marllos Prado.I am a UX researcher and designer with a craftsmanship approach. I prioritize simplicity and robustness over unnecessary complexity and embellishments in my work. In this space, I showcase my cross-functional skills and the projects I've been involved in throughout my career. Whether you're a recruiter, a student, or just a curious visitor, feel free to browse and reach out if you have any questions!  👀 
 </p>
 
 </div>
