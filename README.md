@@ -1,6 +1,8 @@
 <img src="topbanner.png" width="100%" align="right" />
-# My Portfolio at GitHub
 
+<div align="left">
+My Portfolio at GitHub
+</div>div>
 
 <br/>
 
