@@ -46,9 +46,9 @@ Hi! I am <b>Marllos Prado</b> and here I showcase my cross-functional skills and
        | 
         📖 UX Researcher/Designer
        <br> 
-        🎮 Games & Music & Lego
+        🎮 Games & Music & Lego for fun
        | 
-        🚴‍♀️ Bike & Jogging • Gardening 🌱
+        🚴‍♀️ Bike & Jogging • Gardening for health 🌱
 </div>
 <br>
 <br>
