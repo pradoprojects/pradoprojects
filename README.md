@@ -19,7 +19,7 @@
 
 #### *_But why GitHub?_*
 
-> Because it’s collaborative, cross-functional, adaptive, accessible, user-centered, and project-oriented! All the things I strive to be as a Researcher and Designer.❤✌
+> Because it’s collaborative, cross-functional, adaptive, accessible, user-centered, and project-oriented! All the things I strive to be as a Researcher and Designer.✌
 
 <br>
 
