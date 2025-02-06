@@ -1,17 +1,14 @@
 <div align="center">
 <img src="topbannertouch.png" width="100%" align="right" />
+<p>  
+.
+</p>
 </div>
-<p>   </p>
-
-<br/>
-<br/>
-<br/>
-<br/>
 
 
 <div align="center">
-      
-### Welcome to my Portfolio
+     
+###  Welcome to my Portfolio
 
 </div>
 
