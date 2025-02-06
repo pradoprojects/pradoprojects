@@ -1,5 +1,6 @@
+<div align="center">
 <img src="topbannertouch.png" width="100%" align="right" />
-
+</div>
 <p>   </p>
 
 <br/>
