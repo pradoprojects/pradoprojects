@@ -90,7 +90,7 @@ Hi, I am <b>Marllos Prado</b>. I am a UX researcher and designer with a craftsma
 [comment]: <> (LinkedIn Badge.)
 <div align="center">
     
-  [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" style="text-align: center" alt="My LinkedIn" height="15">](www.linkedin.com/in/marllos-p-a383641b2)
+  [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" style="text-align: center" alt="My LinkedIn" height="15">](http://www.linkedin.com/in/marllos-p-a383641b2)
 
 </div>
 
