@@ -28,7 +28,7 @@
 
 <img src="pencil_logo.png" width="15%" align="right" />
 <p align="justify">
-Hi, I am <b>Marllos Prado</b>. I am a UX researcher and designer with a craftsmanship approach. I prioritize simplicity and robustness in my work over unnecessary complexity and embellishments. I strive to create designs that are intuitive, easy to use, and built to last. In this space, I showcase my skills and the projects I've been involved in my career. Be you a recruiter, a student, or just a curious visitor, feel free to browse and reach out if you have any questions! 🎯 
+Hi, I am <b>Marllos Prado</b>. I am a UX researcher and designer enthusiast with a craftsmanship approach. I prioritize simplicity and robustness in my work over unnecessary complexity and embellishments. I strive to create designs that are intuitive, easy to use, and built to last. In this space, I showcase my skills and the projects I've been involved in my career. Be you a recruiter, a student, or just a curious visitor, feel free to browse and reach out if you have any questions! 🎯 
 </p>
 
 </div>
@@ -42,11 +42,10 @@ Hi, I am <b>Marllos Prado</b>. I am a UX researcher and designer with a craftsma
 <div align=center style="display: inline_block">
        <b>Who I am </b>
       <br><br>
-        💼 PhD in Computer Science
+      
+        💻 Informatics and Algorithms Teacher
        | 
-        💻 HCI and Algorithms Teacher
-       | 
-        📖 UX Researcher/Designer
+        📖 UX Researcher/Designer ever-learner
        <br> 
         🎮 Games & Music & Lego for fun
        | 
