@@ -39,18 +39,7 @@ Hi, I am <b>Marllos Prado</b>. I am a UX researcher and designer enthusiast with
 <br/>
 <br/>
 
-<div align=center style="display: inline_block">
-       <b>Who I am </b>
-      <br><br>
-      
-        💻 Informatics and Algorithms Teacher
-       | 
-        📖 UX Researcher/Designer ever-learner
-       <br> 
-        🎮 Games & Music & Lego for fun
-       | 
-        🚴‍♀️ Bike & Jogging & Gardening for health 🌱
-</div>
+
 <br>
 <br>
 
