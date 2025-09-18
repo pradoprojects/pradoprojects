@@ -71,9 +71,16 @@ Hi, I am <b>Marllos Prado</b>. I am a UX researcher and designer enthusiast with
 
 [comment]: <> (LinkedIn Badge.)
 <div align="center">
+
+
     
   [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" style="text-align: center" alt="My LinkedIn" height="15">](http://www.linkedin.com/in/marllos-p-a383641b2)
 
+</div>
+
+
+<div align=center style="display: inline_block"><br>
+   <b>Please click the repositories below to see details about the projects I’ve worked on.</b>
 </div>
 
 
