@@ -64,14 +64,7 @@ Hi, I am <b>Marllos Prado</b>. I am a UX researcher and designer enthusiast with
 <br>
 <br>
 
-<div align=center style="display: inline_block">
 
-<img src="pencil_logo.png" width="15%" align="center" />
-<p align="justify">
-Please click the repositories below to see details about the projects I’ve worked on.
-</p>
-
-</div>
 
 
 
