@@ -65,24 +65,16 @@ Hi, I am <b>Marllos Prado</b>. I am a UX researcher and designer enthusiast with
 <br>
 
 
-<a href="https://github.com/pradoprojects" role="link" aria-disabled="true">
-<div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pradoprojects&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradoprojects&layout=compact&langs_count=7&theme=vue"/> 
-</div>
-</a>
 
-<br>
-<br>
 
-<a href="https://github.com/pradoprojects" role="link" aria-disabled="true">
+
 [comment]: <> (LinkedIn Badge.)
 <div align="center">
     
   [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" style="text-align: center" alt="My LinkedIn" height="15">](http://www.linkedin.com/in/marllos-p-a383641b2)
 
 </div>
-</a>
+
 
 
 
