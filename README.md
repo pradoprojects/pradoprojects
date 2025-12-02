@@ -51,17 +51,23 @@ Hi, I am <b>Marllos Prado</b>. I am a UX researcher and designer enthusiast with
    <a href="https://https://help.figma.com/hc/en-us">
    <img align="center" alt="Figma logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
    </a>
+   <a href="https://https://help.figma.com/hc/en-us">
+   <img align="center" alt="LaTEX logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"> 
+          
+   </a>
    <a href="https://devdocs.io">
-   <img align="center" alt="C logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-   <img align="center" alt="Java logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
    <img align="center" alt="Javascript logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
    <img align="center" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Angular logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="C logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+   <img align="center" alt="Java logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+   
   </a>
 </div>
 
 <br>
+
+<!-- <img align="center" alt="Angular logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 
 [comment]: <> (LinkedIn Badge.)
 <div align="center">
