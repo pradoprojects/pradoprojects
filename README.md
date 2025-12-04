@@ -65,7 +65,7 @@ Whether you’re a recruiter, a student, or a curious visitor, feel free to expl
    <img align="center" alt="Matecat logo" width="3%" src="https://cdn-1.webcatalog.io/catalog/matecat/matecat-icon-filled-256.webp?v=1714780595052">
    </a>
      
-   <a href="https://https://help.figma.com/hc/en-us">
+   <a href="https://www.overleaf.com/">
    <img align="center" alt="LaTEX logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"> 
           
    </a>
