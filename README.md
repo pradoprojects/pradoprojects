@@ -60,6 +60,11 @@ Whether you’re a recruiter, a student, or a curious visitor, feel free to expl
    <a href="https://https://help.figma.com/hc/en-us">
    <img align="center" alt="Figma logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
    </a>
+
+   <a href="https://https://www.matecat.com">
+   <img align="center" alt="Figma logo" height="30" width="40" src="https://brandfetch.com/matecat.com?view=library&library=default&collection=logos&asset=id5imSRMEo&utm_source=https%253A%252F%252Fbrandfetch.com%252Fmatecat.com&utm_medium=copyAction&utm_campaign=brandPageReferral">
+   </a>
+     
    <a href="https://https://help.figma.com/hc/en-us">
    <img align="center" alt="LaTEX logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"> 
           
@@ -70,6 +75,8 @@ Whether you’re a recruiter, a student, or a curious visitor, feel free to expl
    <img align="center" alt="CSS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="C logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
    <img align="center" alt="Java logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+
+   
    
   </a>
 </div>
