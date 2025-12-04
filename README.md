@@ -17,7 +17,7 @@
 
 #### *_But why GitHub?_*
 
-> Because it’s collaborative, cross-functional, adaptive, accessible, user-centered, and project-oriented! All the things I strive to be as a UX Specialist.✌
+> Because it’s collaborative, cross-functional, adaptive, accessible, user-centered, and project-oriented — all qualities I strive to bring to my work as a UX Specialist. ✌️
 
 <br>
 
