@@ -66,8 +66,8 @@ Whether you’re a recruiter, a student, or a curious visitor, feel free to expl
    </a>
 
 
-   <a href="https://https://www.matecat.com">
-   <img align="center" alt="MemoQ logo" width="5%" src="https://blog.memoq.com/hubfs/Imported_Blog_Media/slator_illu_7-2.png">
+   <a href="https://https://www.memoq.com">
+   <img align="center" alt="MemoQ logo" width="3%" src="https://logosandtypes.com/wp-content/uploads/2020/08/memoq.svg">
    </a>
      
    <a href="https://www.overleaf.com/">
