@@ -67,9 +67,10 @@ If you're a recruiter or designer, feel free to explore — or jump to the polis
 ### Want to connect?
 
 <div align="center">
-  [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" height="15">](http://www.linkedin.com/in/marllos-p-a383641b2)
-</div>
+  
+[<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" style="text-align: center" alt="My LinkedIn" height="15">](http://www.linkedin.com/in/marllos-p-a383641b2)
 
+</div>
 <br/><br/>
 
 <div align="center">
