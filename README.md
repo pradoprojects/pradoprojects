@@ -15,20 +15,30 @@
 <br/>
 
 
-#### *_But why GitHub?_*
+#### *"But why GitHub?!?"*
 
-> Because it’s collaborative, cross-functional, adaptive, accessible, user-centered, and project-oriented — all qualities I strive to bring to my work as a UX Specialist. ✌️
+> Because it’s collaborative, cross-functional, adaptive, and project-oriented — all qualities I strive to bring to my work as a UX Specialist. ✌️
 
 <br>
 
-<br/>
+#### *"Sorry Sir... I'm not a GitHub fan..."*
+
+> No worries, I got you covered! <br/>
+> You can check my alternate visual portfolio here:   <a href="https://pradoprojects.github.io/">My Fancy Portfolio Page</a> 🎨
+
+
 <br/>
 
+
+#### *"Fine... maybe I wanna know who you are before clicking the link above!"*
+> Sure! Let me introduce myself 😎:
+
+<br/>
 <div align=center style="display: inline_block">
 
 <img src="pencil_logo.png" width="15%" align="right" />
 <p align="justify">
-Hi, I’m <b>Marllos Prado</b>. I work at the intersection of UX research, interaction design, and pt-BR ↔ EN localization, bringing a human-centered and craftsmanship mindset to every project.
+Hi, I’m <b>Marllos Prado</b>. I work at the intersection of UX research, design, and pt-BR ↔ EN localization, bringing a human-centered and craftsmanship mindset to every project.
 </p>
 
 <p align="justify">
@@ -102,8 +112,9 @@ Whether you’re a recruiter, a student, or a curious visitor, feel free to expl
 <br/>
 <br/>
 
-<div align=center style="display: inline_block"><br>
-   <b>Please click the repositories below to see details about the projects I’ve worked on.</b>
+<div align=center style="display: inline_block"><br/>
+   <b>Click the repositories below to see details about the projects I’ve worked on--or finally navigate to my <a href="https://pradoprojects.github.io/">Fancy Portfolio Page 🎨</a>.</b> <br/>
+        Cheers!🥂<br/>
 </div>
 
 
